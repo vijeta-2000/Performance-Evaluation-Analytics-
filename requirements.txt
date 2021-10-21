@@ -1,0 +1,14 @@
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+zipp
+pillow
+numpy
+pandas
+loguru
+names
+xlrd
+xlsxwriter
+openpyxl
