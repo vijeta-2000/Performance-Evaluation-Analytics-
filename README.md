@@ -52,7 +52,8 @@ streamlit run app.py
 
 
 ### Preview
-##Home page
+
+## Home page
 ![dashboard Screenshot ](https://user-images.githubusercontent.com/65402647/138237115-207e0c28-df3c-4e1c-8a85-07bc574b80ee.jpg)
 
 ## UPLOAD DATASET
