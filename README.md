@@ -49,7 +49,7 @@ streamlit run app.py
   
 [Streamlit](https://www.streamlit.io/), for the open-source library for rapid prototyping.
 
-## [Python](https://www.python.org/) related
+## Made with [Python](https://www.python.org/) 
 
 ### Preview
 
