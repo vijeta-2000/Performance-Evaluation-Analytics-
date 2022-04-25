@@ -24,8 +24,9 @@ try:
     from streamlit.server.Server import Server
 except Exception:
     # Streamlit 1.8.1
-    import streamlit.report_thread as ReportThread
-    from streamlit.server.server import Server
+from streamlit.script_run_context 
+import add_script_run_ctx
+     
 
 
 class SessionState(object):
