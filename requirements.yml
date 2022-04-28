@@ -1,0 +1,20 @@
+name: pears
+channels:
+  - conda-forge
+dependencies:
+  - streamlit
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - pillow
+  - numpy
+  - pandas
+  - loguru
+  - zipp
+  - xlrd
+  - xlsxwriter
+  - openpyxl
+  pip:
+    - names
+
